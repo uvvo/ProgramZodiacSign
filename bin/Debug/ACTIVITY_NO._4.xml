@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ACTIVITY_NO._4
+</name>
+</assembly>
+<members>
+<member name="T:ACTIVITY_NO._4.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ACTIVITY_NO._4.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ACTIVITY_NO._4.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:ACTIVITY_NO._4.My.Resources.Resources._360_F_113990470_BCuuk2BCEkeUEqJSnlDe5wYwRg5gfazg">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ACTIVITY_NO._4.My.Resources.Resources.Aries_4374404_1280">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ACTIVITY_NO._4.My.Resources.Resources.taurus">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ACTIVITY_NO._4.My.Resources.Resources.virgo_sign_4374409_1280">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ACTIVITY_NO._4.My.Resources.Resources.zodiac_sign_4374412_1920">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

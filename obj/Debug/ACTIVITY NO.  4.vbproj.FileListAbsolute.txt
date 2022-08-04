@@ -1,0 +1,12 @@
+C:\Users\Menor\source\repos\ACTIVITY NO.  4\obj\Debug\ACTIVITY NO.  4.vbproj.AssemblyReference.cache
+C:\Users\Menor\source\repos\ACTIVITY NO.  4\obj\Debug\ACTIVITY_NO._4.Form1.resources
+C:\Users\Menor\source\repos\ACTIVITY NO.  4\obj\Debug\ACTIVITY_NO._4.Resources.resources
+C:\Users\Menor\source\repos\ACTIVITY NO.  4\obj\Debug\ACTIVITY NO.  4.vbproj.GenerateResource.cache
+C:\Users\Menor\source\repos\ACTIVITY NO.  4\obj\Debug\ACTIVITY NO.  4.vbproj.CoreCompileInputs.cache
+C:\Users\Menor\source\repos\ACTIVITY NO.  4\bin\Debug\ACTIVITY_NO._4.exe.config
+C:\Users\Menor\source\repos\ACTIVITY NO.  4\bin\Debug\ACTIVITY_NO._4.exe
+C:\Users\Menor\source\repos\ACTIVITY NO.  4\bin\Debug\ACTIVITY_NO._4.pdb
+C:\Users\Menor\source\repos\ACTIVITY NO.  4\bin\Debug\ACTIVITY_NO._4.xml
+C:\Users\Menor\source\repos\ACTIVITY NO.  4\obj\Debug\ACTIVITY_NO._4.exe
+C:\Users\Menor\source\repos\ACTIVITY NO.  4\obj\Debug\ACTIVITY_NO._4.xml
+C:\Users\Menor\source\repos\ACTIVITY NO.  4\obj\Debug\ACTIVITY_NO._4.pdb
